@@ -12,7 +12,8 @@
     "url": "git+https://github.com/kogsio/littletiers.git"
   },
   "engines": {
-    "node": "14.x"
+    "node": "14.x",
+    "npm": "7.10.0"
   },
   "author": "abel@mit.edu",
   "license": "MIT",
